@@ -1,0 +1,23 @@
+<svg width="342" height="342" viewBox="-0.5 0 342 342" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<circle cx="171" cy="171.34" r="170" fill="#2B2223"/>
+<g clip-path="url(#clip0_3_2)">
+<use xlink:href="#stroke0_3_2" fill="#E8898A"/>
+<mask id="stroke1_3_2" fill="white">
+<use xlink:href="#stroke0_3_2"/>
+</mask>
+<path d="M146.006 75.3659C120.576 65.0799 99.0937 41.8599 99.0937 41.8599V57.325V178.645C91.1538 176.202 81.7675 175.479 72.0935 177.044C48.8625 180.783 32.8726 196.136 36.3585 211.316C39.8547 226.505 61.5098 235.78 84.7364 232.025C105.357 228.699 120.246 216.227 120.883 202.832H121.012V97.2622C187.726 104.09 176.769 143.65 172.153 155.248C210.608 119.166 190.61 93.3993 146.006 75.3659Z" stroke-width="10" stroke="#3A2628" mask="url(#stroke1_3_2)"/>
+</g>
+<path d="M136.948 254.287L260.945 253.477" stroke-width="16" stroke-linecap="round" stroke="#F7EBEA"/>
+<path d="M144 218.34H284" stroke-width="18" stroke-linecap="round" stroke="#F2B0AE"/>
+<path d="M150 177.339H288" stroke-width="28" stroke-linecap="round" stroke="#E8898A"/>
+<path d="M139.709 140.13L269.707 139.28" stroke-width="16" stroke-linecap="round" stroke="#F7EBEA"/>
+<path d="M131.5 42.8395C201.5 21.3395 264.5 59.8395 289 106.84" stroke-width="10" stroke-linecap="square" stroke="#E8898A"/>
+<path d="M155 60.8395C216.5 53.3395 252.5 90.8395 265.5 112.339" stroke-width="6" stroke-linecap="square" stroke="#E8898A"/>
+<path d="M58 244.34C93.5 296.84 165 327.34 236.123 288.855" stroke-width="8" stroke="#E8898A"/>
+<defs>
+<clipPath id="clip0_3_2">
+<rect width="228" height="191" fill="white" transform="translate(0 49.3395)"/>
+</clipPath>
+<path id="stroke0_3_2" d="M146.006 75.3659C120.576 65.0799 99.0937 41.8599 99.0937 41.8599V57.325V178.645C91.1538 176.202 81.7675 175.479 72.0935 177.044C48.8624 180.783 32.8726 196.136 36.3585 211.316C39.8547 226.505 61.5098 235.78 84.7364 232.025C105.357 228.699 120.246 216.227 120.883 202.832H121.012V97.2622C187.726 104.09 176.769 143.65 172.153 155.248C210.608 119.166 190.61 93.3993 146.006 75.3659Z"/>
+</defs>
+</svg>
