@@ -12,7 +12,11 @@ Windows 10 / 11 · Free
 
 </div>
 
-<!-- Screenshot of the overlay over a game goes here, e.g. assets/overlay.png -->
+<p align="center">
+  <img src="assets/overlay-deadlock.jpg" alt="Lyrycal's overlay showing synced lyrics in a box with a purple background image, over the game Deadlock">
+  <br>
+  <sub>A custom look with a background image, over Deadlock</sub>
+</p>
 
 Lyrycal notices the song playing in any media player (Spotify, YouTube Music in a browser, VLC, Apple Music and others), finds time-synced lyrics for it, and shows them in a small overlay that stays on top of your games and apps. You don't have to set up each player or type song names. Play music and sing along.
 
@@ -26,6 +30,12 @@ Lyrycal notices the song playing in any media player (Spotify, YouTube Music in 
 - **Make it look your way.** Fonts, sizes, colors, background image (GIFs too), frame, shadow, spacing and which details to show, with a live preview.
 - **Share your look.** Export it as a `.lyrycal` file, and double-click one from a friend to import it.
 - **Light on your PC.** A small background process, and each song's lyrics take about 4 KB of disk once saved. Saved lyrics work offline.
+
+<p align="center">
+  <img src="assets/overlay-valorant.jpg" alt="Lyrycal's overlay showing synced lyrics with no background box, over the game Valorant">
+  <br>
+  <sub>A minimal look with no box, over Valorant</sub>
+</p>
 
 ## Install
 
