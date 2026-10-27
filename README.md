@@ -23,6 +23,7 @@ Lyrycal notices the song playing in any media player (Spotify, YouTube Music in 
 ## Features
 
 - **Works with any player.** If a player shows up in Windows' media pop-up (the one beside the volume slider), Lyrycal can read it, browser tabs included.
+- **You choose what it follows.** Switch apps on or off in Settings. In browsers it follows music sites and skips other videos, and ads show as "Ad playing".
 - **Lyrics in time with the song.** The current line is highlighted as it's sung, with the lines around it shown too.
 - **Stays out of your way.** The overlay is always on top and click-through, so it never takes your mouse or keyboard away from a game.
 - **Fix lyrics that are off.** Shift them earlier or later in 0.2 s steps (remembered per song), switch to another version of the lyrics, or paste your own.
@@ -48,7 +49,7 @@ Lyrycal notices the song playing in any media player (Spotify, YouTube Music in 
 
 Lyrycal needs Microsoft WebView2, which is built into Windows 11 and almost every Windows 10 PC. If it's missing, the installer downloads it.
 
-To update, download and run the newer installer. Your settings and saved lyrics are kept.
+Lyrycal tells you when a newer version is out, with what's new in it. To update, download and run the newer installer; your settings and saved lyrics are kept.
 
 ## Using Lyrycal
 
@@ -85,7 +86,7 @@ In **Settings › General › Share your setup**, export your overlay's look as 
 
 - **Games:** the overlay shows over windowed and borderless full-screen games, which is the default for most modern games. It can't draw over exclusive full-screen; switch the game to borderless if the lyrics don't appear.
 - **Where lyrics come from:** [LRCLIB](https://lrclib.net), a free, community-run database of synced lyrics, plus your own `.lrc` folder if you set one.
-- **Privacy:** the only thing Lyrycal sends anywhere is the playing song's artist, title, album and length, to LRCLIB, to find its lyrics. There are no accounts and no analytics.
+- **Privacy:** Lyrycal sends the playing song's artist, title, album and length to LRCLIB, to find its lyrics. Once a day it also asks GitHub whether a newer version is out (switch this off in Settings › General). There are no accounts and no analytics.
 - **Your data:**
 
   | What | Where |
